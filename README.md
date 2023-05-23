@@ -16,3 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Pictures
+<div align="center">
+    <img height="180em" src="https://raw.githubusercontent.com/AndreTGama/flashlight_flutter/main/assets/example/foto_1.png"/>
+    <img height="180em" src="https://raw.githubusercontent.com/AndreTGama/flashlight_flutter/main/assets/example/foto_2.png"/>
+</div>
